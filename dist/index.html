@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Explorador de Bebidas</title>
+
+    <!-- OpenGraph Meta Tags -->
+    <meta property="og:title" content="Explorador de Bebidas" />
+    <meta property="og:description" content="Descubre bebidas según tus preferencias de sabor. Explora cócteles, cervezas y vinos en un mapa interactivo de sabores." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://gorgeous-faun-b37090.netlify.app/og-image.png" />
+    <meta property="og:url" content="https://gorgeous-faun-b37090.netlify.app/" />
+    <meta property="og:site_name" content="Explorador de Bebidas" />
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Explorador de Bebidas" />
+    <meta name="twitter:description" content="Descubre bebidas según tus preferencias de sabor. Explora cócteles, cervezas y vinos en un mapa interactivo de sabores." />
+    <meta name="twitter:image" content="https://gorgeous-faun-b37090.netlify.app/og-image.png" />
+
+    <!-- Additional Meta Tags -->
+    <meta name="description" content="Descubre bebidas según tus preferencias de sabor. Explora cócteles, cervezas y vinos en un mapa interactivo de sabores." />
+    <meta name="theme-color" content="#1a1a1a" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>🍸 Explorador de Bebidas</h1>
+      <p>Descubre bebidas según tus preferencias de sabor</p>
+    </header>
+
+    <main>
+      <div id="tabs">
+        <button class="tab active" data-category="cocktails">
+          🍹 Cócteles
+        </button>
+        <button class="tab" data-category="beers">🍺 Cervezas</button>
+        <button class="tab" data-category="wines">🍷 Vinos</button>
+      </div>
+      <div id="result">
+        <h2><span id="drink-name">Cocktail 1</span></h2>
+        <p><strong>Ingredientes:</strong></p>
+        <p id="drink-description">Explora los sabores de esta categoría.</p>
+      </div>
+      <div id="xy-pad">
+        <div id="marker"></div>
+        <div class="axis-label x-left">Dulce</div>
+        <div class="axis-label x-right">Amargo</div>
+        <div class="axis-label y-top">Potente</div>
+        <div class="axis-label y-bottom">Ligero</div>
+      </div>
+      <div id="drinks-toggle">
+        <button class="toggle-button">Mostrar bebidas +</button>
+        <div id="tags-container" class="hidden"></div>
+      </div>
+    </main>
+
+    <footer>
+      <p>© 2024 Explorador de Bebidas. Hecho por smithplus usando <a href="https://bolt.new" target="_blank" rel="noopener">bolt.new</a></p>
+      <p id="version">Versión: 1.1.1</p>
+    </footer>
+
+    <script type="module" src="script.js"></script>
+  </body>
+</html>

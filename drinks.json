@@ -1,0 +1,941 @@
+{
+  "cocktails": {
+    "emoji": "🍹",
+    "drinks": [
+      {
+        "x": 1,
+        "y": 3,
+        "name": "Mojito",
+        "description": "Ron blanco, azúcar, jugo de lima, hojas de menta, soda."
+      },
+      {
+        "x": -2,
+        "y": 5,
+        "name": "Piña Colada",
+        "description": "Ron, crema de coco, jugo de piña."
+      },
+      {
+        "x": 4,
+        "y": -3,
+        "name": "Margarita",
+        "description": "Tequila, licor de naranja, jugo de lima, sal."
+      },
+      {
+        "x": -6,
+        "y": 1,
+        "name": "Daiquiri",
+        "description": "Ron blanco, jugo de lima, azúcar."
+      },
+      {
+        "x": 0,
+        "y": -2,
+        "name": "Cosmopolitan",
+        "description": "Vodka, triple sec, jugo de arándano, jugo de lima."
+      },
+      {
+        "x": 2,
+        "y": -5,
+        "name": "Tequila Sunrise",
+        "description": "Tequila, jugo de naranja, granadina."
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "name": "Bloody Mary",
+        "description": "Vodka, jugo de tomate, jugo de limón, salsa Worcestershire, tabasco."
+      },
+      {
+        "x": 5,
+        "y": 4,
+        "name": "Mai Tai",
+        "description": "Ron oscuro, ron claro, licor de almendra, jugo de lima, granadina."
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "name": "Whiskey Sour",
+        "description": "Whiskey, jugo de limón, azúcar, clara de huevo (opcional)."
+      },
+      {
+        "x": 3,
+        "y": -4,
+        "name": "Long Island Iced Tea",
+        "description": "Vodka, tequila, ron blanco, triple sec, gin, jugo de limón, cola."
+      },
+      {
+        "x": -1,
+        "y": 5,
+        "name": "Caipirinha",
+        "description": "Cachaça, lima, azúcar."
+      },
+      {
+        "x": 1,
+        "y": -5,
+        "name": "Cuba Libre",
+        "description": "Ron, cola, jugo de lima."
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "name": "Martini",
+        "description": "Gin, vermouth seco, aceituna o twist de limón."
+      },
+      {
+        "x": -5,
+        "y": -2,
+        "name": "Gin Tonic",
+        "description": "Gin, agua tónica, rodaja de limón."
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "name": "Manhattan",
+        "description": "Whiskey, vermouth rojo, amargos."
+      },
+      {
+        "x": -2,
+        "y": -6,
+        "name": "Negroni",
+        "description": "Gin, vermouth rojo, Campari, twist de naranja."
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "name": "Old Fashioned",
+        "description": "Whiskey, azúcar, amargos, cáscara de naranja."
+      },
+      {
+        "x": -4,
+        "y": -4,
+        "name": "Tom Collins",
+        "description": "Gin, jugo de limón, azúcar, soda."
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "name": "Pisco Sour",
+        "description": "Pisco, jugo de limón, azúcar, clara de huevo, amargos."
+      },
+      {
+        "x": 5,
+        "y": -3,
+        "name": "Bellini",
+        "description": "Champaña, puré de durazno."
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "name": "Mimosa",
+        "description": "Champaña, jugo de naranja."
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "name": "Zombie",
+        "description": "Ron oscuro, ron claro, jugo de lima, granadina, jugo de naranja."
+      },
+      {
+        "x": -6,
+        "y": 3,
+        "name": "Blue Lagoon",
+        "description": "Vodka, curaçao azul, limonada."
+      },
+      {
+        "x": 1,
+        "y": -3,
+        "name": "Sangría",
+        "description": "Vino tinto, frutas, licor de naranja, soda."
+      },
+      {
+        "x": 2,
+        "y": 6,
+        "name": "Black Russian",
+        "description": "Vodka, licor de café."
+      },
+      {
+        "x": -3,
+        "y": -5,
+        "name": "White Russian",
+        "description": "Vodka, licor de café, crema."
+      },
+      {
+        "x": 6,
+        "y": 1,
+        "name": "Sex on the Beach",
+        "description": "Vodka, licor de durazno, jugo de naranja, jugo de arándano."
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "name": "Aperol Spritz",
+        "description": "Aperol, prosecco, soda."
+      },
+      {
+        "x": 0,
+        "y": -6,
+        "name": "Clover Club",
+        "description": "Gin, jugo de limón, jarabe de frambuesa, clara de huevo."
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "name": "French 75",
+        "description": "Gin, jugo de limón, champaña, azúcar."
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "name": "Singapore Sling",
+        "description": "Gin, licor de cereza, licor de hierbas, jugo de limón, soda."
+      },
+      {
+        "x": 4,
+        "y": -2,
+        "name": "Brandy Alexander",
+        "description": "Brandy, licor de cacao, crema."
+      },
+      {
+        "x": -2,
+        "y": 6,
+        "name": "Grasshopper",
+        "description": "Licor de menta, licor de cacao blanco, crema."
+      },
+      {
+        "x": 3,
+        "y": -1,
+        "name": "Paloma",
+        "description": "Tequila, jugo de toronja, soda, jugo de limón."
+      },
+      {
+        "x": -4,
+        "y": 4,
+        "name": "Dark and Stormy",
+        "description": "Ron oscuro, cerveza de jengibre, jugo de lima."
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "name": "Irish Coffee",
+        "description": "Café caliente, whiskey irlandés, azúcar, crema."
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "name": "Caipiroska",
+        "description": "Vodka, lima, azúcar."
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "name": "Mint Julep",
+        "description": "Bourbon, azúcar, hojas de menta, hielo."
+      },
+      {
+        "x": -5,
+        "y": -4,
+        "name": "Rum Punch",
+        "description": "Ron, jugo de naranja, jugo de piña, granadina, jugo de lima."
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "name": "Eggnog",
+        "description": "Leche, crema, huevo, azúcar, ron o brandy, nuez moscada."
+      },
+      {
+        "x": -6,
+        "y": 5,
+        "name": "Sidecar",
+        "description": "Brandy, triple sec, jugo de limón."
+      },
+      {
+        "x": 1,
+        "y": -4,
+        "name": "Kir Royale",
+        "description": "Champaña, licor de grosella negra."
+      },
+      {
+        "x": 3,
+        "y": -3,
+        "name": "Planter’s Punch",
+        "description": "Ron oscuro, jugo de lima, jugo de naranja, granadina."
+      },
+      {
+        "x": -1,
+        "y": -6,
+        "name": "Hurricane",
+        "description": "Ron oscuro, ron blanco, jugo de lima, jugo de maracuyá, granadina."
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "name": "Americano",
+        "description": "Campari, vermouth rojo, soda."
+      },
+      {
+        "x": -3,
+        "y": -2,
+        "name": "Gin Fizz",
+        "description": "Gin, jugo de limón, azúcar, soda."
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "name": "Tuxedo",
+        "description": "Gin, vermouth seco, absenta, amargos."
+      },
+      {
+        "x": 6,
+        "y": -5,
+        "name": "Vesper",
+        "description": "Gin, vodka, Lillet Blanc."
+      },
+      {
+        "x": 5,
+        "y": -6,
+        "name": "Bee’s Knees",
+        "description": "Gin, jugo de limón, miel."
+      },
+      {
+        "x": 0,
+        "y": -3,
+        "name": "Boulevardier",
+        "description": "Whiskey, Campari, vermouth rojo."
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "name": "Sazerac",
+        "description": "Whiskey, absenta, azúcar, amargos, cáscara de limón."
+      },
+      {
+        "x": 1,
+        "y": -2,
+        "name": "Mai Tai Blanco",
+        "description": "Ron blanco, jugo de piña, jugo de lima, licor de almendra."
+      }
+    ]
+  },
+  "beers": {
+    "emoji": "🍺",
+    "drinks": [
+      {
+        "x": 1,
+        "y": 3,
+        "name": "IPA",
+        "description": "Lúpulo, malta, levadura, agua."
+      },
+      {
+        "x": -2,
+        "y": 5,
+        "name": "Pale Ale",
+        "description": "Malta clara, lúpulo, levadura, agua."
+      },
+      {
+        "x": 4,
+        "y": -3,
+        "name": "Stout",
+        "description": "Malta tostada, lúpulo, levadura, agua."
+      },
+      {
+        "x": -6,
+        "y": 1,
+        "name": "Porter",
+        "description": "Malta tostada, lúpulo, levadura, agua."
+      },
+      {
+        "x": 0,
+        "y": -2,
+        "name": "Lager",
+        "description": "Malta, lúpulo, levadura lager, agua."
+      },
+      {
+        "x": 2,
+        "y": -5,
+        "name": "Amber Ale",
+        "description": "Malta ámbar, lúpulo, levadura, agua."
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "name": "Brown Ale",
+        "description": "Malta marrón, lúpulo, levadura, agua."
+      },
+      {
+        "x": 5,
+        "y": 4,
+        "name": "Pilsner",
+        "description": "Malta Pilsner, lúpulo Saaz, levadura lager, agua."
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "name": "Hefeweizen",
+        "description": "Malta de trigo, levadura de trigo, agua."
+      },
+      {
+        "x": 3,
+        "y": -4,
+        "name": "Saison",
+        "description": "Malta, lúpulo, levadura de granja, agua."
+      },
+      {
+        "x": -1,
+        "y": 5,
+        "name": "Double IPA",
+        "description": "Malta, lúpulo doble, levadura, agua."
+      },
+      {
+        "x": 1,
+        "y": -5,
+        "name": "Barleywine",
+        "description": "Malta, lúpulo fuerte, levadura, agua."
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "name": "Tripel",
+        "description": "Malta, lúpulo, levadura belga, azúcar, agua."
+      },
+      {
+        "x": -5,
+        "y": -2,
+        "name": "Dubbel",
+        "description": "Malta, lúpulo, levadura belga, azúcar, agua."
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "name": "Bock",
+        "description": "Malta tostada, lúpulo suave, levadura lager, agua."
+      },
+      {
+        "x": -2,
+        "y": -6,
+        "name": "Witbier",
+        "description": "Malta de trigo, lúpulo, levadura belga, especias, agua."
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "name": "Sour",
+        "description": "Malta, lúpulo, levadura salvaje, frutas, agua."
+      },
+      {
+        "x": -4,
+        "y": -4,
+        "name": "Gose",
+        "description": "Malta, lúpulo, sal, cilantro, agua."
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "name": "Imperial Stout",
+        "description": "Malta tostada, lúpulo, levadura fuerte, agua."
+      },
+      {
+        "x": 5,
+        "y": -3,
+        "name": "Vienna Lager",
+        "description": "Malta Viena, lúpulo, levadura lager, agua."
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "name": "Golden Ale",
+        "description": "Malta clara, lúpulo, levadura, agua."
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "name": "Scotch Ale",
+        "description": "Malta tostada, lúpulo suave, levadura, agua."
+      },
+      {
+        "x": -6,
+        "y": 3,
+        "name": "Red Ale",
+        "description": "Malta roja, lúpulo, levadura, agua."
+      },
+      {
+        "x": 1,
+        "y": -3,
+        "name": "Black Lager",
+        "description": "Malta tostada, lúpulo, levadura lager, agua."
+      },
+      {
+        "x": 2,
+        "y": 6,
+        "name": "Blonde Ale",
+        "description": "Malta clara, lúpulo, levadura suave, agua."
+      },
+      {
+        "x": -3,
+        "y": -5,
+        "name": "Milk Stout",
+        "description": "Malta tostada, lactosa, lúpulo, levadura, agua."
+      },
+      {
+        "x": 6,
+        "y": 1,
+        "name": "Rye IPA",
+        "description": "Malta de centeno, lúpulo, levadura, agua."
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "name": "Belgian Pale Ale",
+        "description": "Malta, lúpulo, levadura belga, agua."
+      },
+      {
+        "x": 0,
+        "y": -6,
+        "name": "Fruit Beer",
+        "description": "Malta, frutas, lúpulo, levadura, agua."
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "name": "Honey Ale",
+        "description": "Malta, miel, lúpulo, levadura, agua."
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "name": "Chocolate Stout",
+        "description": "Malta tostada, cacao, lúpulo, levadura, agua."
+      },
+      {
+        "x": 4,
+        "y": -2,
+        "name": "Pumpkin Ale",
+        "description": "Malta, calabaza, especias, lúpulo, levadura, agua."
+      },
+      {
+        "x": -2,
+        "y": 6,
+        "name": "Hazy IPA",
+        "description": "Malta, lúpulo aromático, levadura, agua."
+      },
+      {
+        "x": 3,
+        "y": -1,
+        "name": "Dry Stout",
+        "description": "Malta tostada, lúpulo, levadura seca, agua."
+      },
+      {
+        "x": -4,
+        "y": 4,
+        "name": "Smoked Beer",
+        "description": "Malta ahumada, lúpulo, levadura, agua."
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "name": "Coconut Porter",
+        "description": "Malta tostada, coco, lúpulo, levadura, agua."
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "name": "Vanilla Stout",
+        "description": "Malta tostada, vainilla, lúpulo, levadura, agua."
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "name": "Coffee Stout",
+        "description": "Malta tostada, café, lúpulo, levadura, agua."
+      },
+      {
+        "x": -5,
+        "y": -4,
+        "name": "Ginger Beer",
+        "description": "Malta, jengibre, lúpulo, levadura, agua."
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "name": "Amber Lager",
+        "description": "Malta ámbar, lúpulo, levadura lager, agua."
+      },
+      {
+        "x": -6,
+        "y": 5,
+        "name": "Pale Lager",
+        "description": "Malta clara, lúpulo, levadura lager, agua."
+      },
+      {
+        "x": 1,
+        "y": -4,
+        "name": "Extra Stout",
+        "description": "Malta tostada, lúpulo, levadura extra fuerte, agua."
+      },
+      {
+        "x": 3,
+        "y": -3,
+        "name": "Kolsch",
+        "description": "Malta clara, lúpulo, levadura Kolsch, agua."
+      },
+      {
+        "x": -1,
+        "y": -6,
+        "name": "Fruited Sour",
+        "description": "Malta, lúpulo, frutas, levadura salvaje, agua."
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "name": "Session IPA",
+        "description": "Malta, lúpulo ligero, levadura, agua."
+      },
+      {
+        "x": -3,
+        "y": -2,
+        "name": "Cold IPA",
+        "description": "Malta, lúpulo frío, levadura, agua."
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "name": "Double Stout",
+        "description": "Malta tostada, lúpulo, levadura fuerte, agua."
+      },
+      {
+        "x": 6,
+        "y": -5,
+        "name": "Triple IPA",
+        "description": "Malta, lúpulo triple, levadura, agua."
+      },
+      {
+        "x": 5,
+        "y": -6,
+        "name": "Chocolate Porter",
+        "description": "Malta tostada, cacao, lúpulo, levadura, agua."
+      },
+      {
+        "x": 0,
+        "y": -3,
+        "name": "Belgian Strong Ale",
+        "description": "Malta, lúpulo, levadura belga, azúcar, agua."
+      },
+      {
+        "x": -2,
+        "y": 2,
+        "name": "Raspberry Sour",
+        "description": "Malta, frambuesas, lúpulo, levadura salvaje, agua."
+      },
+      {
+        "x": 1,
+        "y": -2,
+        "name": "Oatmeal Stout",
+        "description": "Malta tostada, avena, lúpulo, levadura, agua."
+      }
+    ]
+  },
+  "wines": {
+    "emoji": "🍷",
+    "drinks": [
+      {
+        "x": 1,
+        "y": 3,
+        "name": "Cabernet Sauvignon",
+        "description": "Vino tinto elaborado con uvas Cabernet Sauvignon."
+      },
+      {
+        "x": -2,
+        "y": 5,
+        "name": "Merlot",
+        "description": "Vino tinto elaborado con uvas Merlot."
+      },
+      {
+        "x": 4,
+        "y": -3,
+        "name": "Pinot Noir",
+        "description": "Vino tinto elaborado con uvas Pinot Noir."
+      },
+      {
+        "x": -6,
+        "y": 1,
+        "name": "Chardonnay",
+        "description": "Vino blanco elaborado con uvas Chardonnay."
+      },
+      {
+        "x": 0,
+        "y": -2,
+        "name": "Sauvignon Blanc",
+        "description": "Vino blanco elaborado con uvas Sauvignon Blanc."
+      },
+      {
+        "x": 2,
+        "y": -5,
+        "name": "Riesling",
+        "description": "Vino blanco dulce elaborado con uvas Riesling."
+      },
+      {
+        "x": -3,
+        "y": -1,
+        "name": "Zinfandel",
+        "description": "Vino tinto elaborado con uvas Zinfandel."
+      },
+      {
+        "x": 5,
+        "y": 4,
+        "name": "Syrah",
+        "description": "Vino tinto elaborado con uvas Syrah."
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "name": "Shiraz",
+        "description": "Vino tinto elaborado con uvas Shiraz."
+      },
+      {
+        "x": 3,
+        "y": -4,
+        "name": "Malbec",
+        "description": "Vino tinto elaborado con uvas Malbec."
+      },
+      {
+        "x": -1,
+        "y": 5,
+        "name": "Tempranillo",
+        "description": "Vino tinto elaborado con uvas Tempranillo."
+      },
+      {
+        "x": 1,
+        "y": -5,
+        "name": "Garnacha",
+        "description": "Vino tinto elaborado con uvas Garnacha."
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "name": "Rosé",
+        "description": "Vino rosado elaborado con uvas tintas y corta maceración."
+      },
+      {
+        "x": -5,
+        "y": -2,
+        "name": "Prosecco",
+        "description": "Vino espumoso italiano elaborado con uvas Glera."
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "name": "Champagne",
+        "description": "Vino espumoso francés elaborado con uvas Chardonnay, Pinot Noir y Pinot Meunier."
+      },
+      {
+        "x": -2,
+        "y": -6,
+        "name": "Cava",
+        "description": "Vino espumoso español elaborado con uvas Macabeo, Parellada y Xarel·lo."
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "name": "Porto",
+        "description": "Vino fortificado portugués elaborado con uvas de la región del Duero."
+      },
+      {
+        "x": -4,
+        "y": -4,
+        "name": "Sherry",
+        "description": "Vino fortificado español elaborado con uvas Palomino y Pedro Ximénez."
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "name": "Moscato",
+        "description": "Vino dulce elaborado con uvas Moscatel."
+      },
+      {
+        "x": 5,
+        "y": -3,
+        "name": "Gewürztraminer",
+        "description": "Vino blanco aromático elaborado con uvas Gewürztraminer."
+      },
+      {
+        "x": -1,
+        "y": -1,
+        "name": "Ice Wine",
+        "description": "Vino dulce elaborado con uvas congeladas."
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "name": "Barolo",
+        "description": "Vino tinto italiano elaborado con uvas Nebbiolo."
+      },
+      {
+        "x": -6,
+        "y": 3,
+        "name": "Amarone",
+        "description": "Vino tinto italiano elaborado con uvas secadas al sol."
+      },
+      {
+        "x": 1,
+        "y": -3,
+        "name": "Lambrusco",
+        "description": "Vino espumoso italiano elaborado con uvas Lambrusco."
+      },
+      {
+        "x": 2,
+        "y": 6,
+        "name": "Rioja",
+        "description": "Vino tinto español elaborado con uvas Tempranillo."
+      },
+      {
+        "x": -3,
+        "y": -5,
+        "name": "Albariño",
+        "description": "Vino blanco español elaborado con uvas Albariño."
+      },
+      {
+        "x": 6,
+        "y": 1,
+        "name": "Chianti",
+        "description": "Vino tinto italiano elaborado con uvas Sangiovese."
+      },
+      {
+        "x": -5,
+        "y": 0,
+        "name": "Carmenère",
+        "description": "Vino tinto chileno elaborado con uvas Carmenère."
+      },
+      {
+        "x": 0,
+        "y": -6,
+        "name": "Pinot Grigio",
+        "description": "Vino blanco italiano elaborado con uvas Pinot Grigio."
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "name": "Grüner Veltliner",
+        "description": "Vino blanco austriaco elaborado con uvas Grüner Veltliner."
+      },
+      {
+        "x": -1,
+        "y": 3,
+        "name": "Beaujolais",
+        "description": "Vino tinto francés elaborado con uvas Gamay."
+      },
+      {
+        "x": 4,
+        "y": -2,
+        "name": "Sancerre",
+        "description": "Vino blanco francés elaborado con uvas Sauvignon Blanc."
+      },
+      {
+        "x": -2,
+        "y": 6,
+        "name": "Chablis",
+        "description": "Vino blanco francés elaborado con uvas Chardonnay."
+      },
+      {
+        "x": 3,
+        "y": -1,
+        "name": "Vinho Verde",
+        "description": "Vino blanco portugués elaborado con uvas Loureiro y Alvarinho."
+      },
+      {
+        "x": -4,
+        "y": 4,
+        "name": "Riesling Seco",
+        "description": "Vino blanco seco elaborado con uvas Riesling."
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "name": "Fumé Blanc",
+        "description": "Vino blanco seco elaborado con uvas Sauvignon Blanc."
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "name": "Torrontés",
+        "description": "Vino blanco argentino elaborado con uvas Torrontés."
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "name": "Petit Verdot",
+        "description": "Vino tinto elaborado con uvas Petit Verdot."
+      },
+      {
+        "x": -5,
+        "y": -4,
+        "name": "Verdicchio",
+        "description": "Vino blanco italiano elaborado con uvas Verdicchio."
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "name": "Viognier",
+        "description": "Vino blanco francés elaborado con uvas Viognier."
+      },
+      {
+        "x": -6,
+        "y": 5,
+        "name": "Barbera",
+        "description": "Vino tinto italiano elaborado con uvas Barbera."
+      },
+      {
+        "x": 1,
+        "y": -4,
+        "name": "Dolcetto",
+        "description": "Vino tinto italiano elaborado con uvas Dolcetto."
+      },
+      {
+        "x": 3,
+        "y": -3,
+        "name": "Rosado Provenzal",
+        "description": "Vino rosado francés elaborado con uvas tintas de Provenza."
+      },
+      {
+        "x": -1,
+        "y": -6,
+        "name": "Cabernet Franc",
+        "description": "Vino tinto elaborado con uvas Cabernet Franc."
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "name": "Mencia",
+        "description": "Vino tinto español elaborado con uvas Mencia."
+      },
+      {
+        "x": -3,
+        "y": -2,
+        "name": "Montepulciano",
+        "description": "Vino tinto italiano elaborado con uvas Montepulciano."
+      },
+      {
+        "x": 2,
+        "y": -1,
+        "name": "Grenache Blanc",
+        "description": "Vino blanco elaborado con uvas Grenache Blanc."
+      },
+      {
+        "x": 6,
+        "y": -5,
+        "name": "Sémillon",
+        "description": "Vino blanco francés elaborado con uvas Sémillon."
+      },
+      {
+        "x": 5,
+        "y": -6,
+        "name": "Touriga Nacional",
+        "description": "Vino tinto portugués elaborado con uvas Touriga Nacional."
+      },
+      {
+        "x": 0,
+        "y": -3,
+        "name": "Rosado de Syrah",
+        "description": "Vino rosado elaborado con uvas Syrah."
+      }
+    ]
+  }
+}
