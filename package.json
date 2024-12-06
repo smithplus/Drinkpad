@@ -3,8 +3,9 @@
   "version": "1.1.1",
   "type": "module",
   "scripts": {
+    "dev": "servor --reload",
     "start": "servor --reload",
-    "build": "mkdir -p dist && cp -r *.html *.css *.js src drinks.json dist/ && cp -r src dist/",
+    "build": "mkdir -p dist && cp -r *.html *.css *.js src drinks.json dist/",
     "deploy": "npm run build"
   },
   "dependencies": {
